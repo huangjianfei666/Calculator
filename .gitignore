@@ -1,0 +1,17 @@
+# 编辑器配置
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven 编译目录
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
